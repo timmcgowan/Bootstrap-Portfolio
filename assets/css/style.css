@@ -124,6 +124,23 @@ h3 {
   background: #203672;
 }
 
+
+
+  /* Top stuff */
+.navbar-toggler:focus {
+    outline: none;
+}
+  
+.navbar-toggler {
+    background-color: rgba(255,255,255,0.1);
+}
+  
+.navbar-toggler.collapsed {
+    background-color: transparent;
+}
+
+
+
 nav {
   /* Box-model */
   float: right;
