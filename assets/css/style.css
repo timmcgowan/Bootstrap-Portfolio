@@ -63,7 +63,7 @@ h3 {
   /* Typography */
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #000002;
 }
 
 h1 {
@@ -121,7 +121,7 @@ h3 {
   text-decoration: none;
 
   /* Visual */
-  background: #4aaaa5;
+  background: #203672;
 }
 
 nav {
@@ -376,7 +376,7 @@ input[type=submit] {
 
   /* Misc */
   cursor: pointer;
-  background: #4aaaa5;
+  background: #206e33;
 
   /* Visual */
   border: 0 none;
