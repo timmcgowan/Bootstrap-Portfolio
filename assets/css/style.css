@@ -121,7 +121,7 @@ h3 {
   text-decoration: none;
 
   /* Visual */
-  background: #203672;
+  /*background: #203672;*/
 }
 
 
@@ -153,16 +153,14 @@ nav li {
   display: inline-block;
 
   /* Box-model */
-  padding-left: 15px;
+  padding-left: 5px;
 
   /* Positioning */
-  margin-left: 15px;
+  margin-left: 5px;
 
   /* Typography */
   line-height: 18px;
 
-  /* Visual */
-  border-left: 1px solid #efefef;
 }
 
 nav a {
@@ -173,17 +171,6 @@ nav a {
 
 nav a:hover {
   color: #666;
-}
-
-nav li:first-child {
-  /* Box-model */
-  padding-left: 0;
-
-  /* Positioning */
-  margin-left: 0;
-
-  /* Visual */
-  border-left: 0 none;
 }
 
 /* footer */
@@ -207,7 +194,7 @@ footer {
 
   /* Visual */
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid #C0C0C0	;
 }
 
 /* sidebar */
