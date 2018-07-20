@@ -140,13 +140,14 @@ h3 {
 }
 
 
-
 nav {
   /* Box-model */
   float: right;
 
   /* Positioning */
   margin-top: 25px;
+
+  background-color: rgba(255,255,255,0.1);
 }
 
 nav li {
@@ -193,7 +194,7 @@ footer {
   text-align: center;
 
   /* Visual */
-  background: #666;
+  background: rgb(41, 48, 61);
   border-top: 8px solid #C0C0C0	;
 }
 
@@ -315,7 +316,7 @@ main {
 
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #456B90;
 
   /* Visual */
   border-bottom: 0;
